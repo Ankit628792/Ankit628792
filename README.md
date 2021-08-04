@@ -63,6 +63,7 @@ Here are some ideas to get you started:
 
 <br/>  
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit628792&layout=compact&theme=flag-india)](https://github.com/Ankit628792)
-
+-->
 
