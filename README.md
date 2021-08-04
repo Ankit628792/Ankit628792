@@ -62,9 +62,7 @@ Here are some ideas to get you started:
 </div></td></tr></table>  
 
 <br/>  
-<div align="left">
- <h3> <b> Most used Language </b> </h3>
- </div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit628792&layout=compact&theme=flag-india)](https://github.com/Ankit628792)
 
 
