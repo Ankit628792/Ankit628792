@@ -10,10 +10,10 @@
  
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... MERN Development
-- 🌱 I’m currently learning ... Full Stack Dev
-- 👯 I’m looking to collaborate on ... a React Project
-- 🤔 I’m looking for help with ... guidance in MERN projects
+- 🔭 I’m currently working on ... App Development
+- 🌱 I’m currently learning ... Java Spring Boot
+- 👯 I’m looking to collaborate on ... Full Stack Projects
+- 🤔 I’m looking for an opportunity ... to get my skills used for a great product
 - 💬 Ask me about of anything for consultant.
 - 📫 How to reach me: ... [@ankit_628792](https://www.instagram.com/ankit_628792)
 - ⚡ Fun fact: ... Great Experience in Human Psychology 😄
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
  </div>
 <div align="left">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
- <img style="margin: 10px" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" alt="Tailwind" height="50" /> 
+ <img style="margin: 10px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tailwind-css-icon.png" alt="Tailwind" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /> 
  <img style="margin: 10px" src="https://material-ui.com/static/logo.png" alt="Material UI" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
