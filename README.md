@@ -11,7 +11,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... App Development
-- 🌱 I’m currently learning ... Java Spring Boot
+- 🌱 I’m currently learning ... Python
 - 👯 I’m looking to collaborate on ... Full Stack Projects
 - 🤔 I’m looking for an opportunity ... to get my skills used for a great product
 - 💬 Ask me about of anything for consultant.
