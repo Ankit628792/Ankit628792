@@ -1,16 +1,47 @@
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> Hi, I'm Ankit
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> Hi, I'm Ankit
+I'm a Frontend Developer with a knack for creating captivating user interfaces with impressive animation, providing great user experience and a solid grasp of backend development, passionate about crafting engaging digital experiences.
 
-<h3>Connect with me 🤝:</h3>
+## Connect with me 🤝
 <a href="https://www.instagram.com/ankit_628792/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/instagram-new.png" width="50" /></a>
 <a href="https://www.linkedin.com/in/ankit628792" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/linkedin.png" width="50" /></a>
-<br> <br>
+<br> 
 
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankit628792&show_icons=true)
+## Work Experience 💼
 
-<br>
+### Product Development Engineer – Apr 2022 – Mar 2024
+**Sugoi Labs Pvt. Ltd.** – Bengaluru, India
+- Crafted over 12 products, encompassing 6 end-to-end solutions and 4 collaborative ventures.
+- Bringing the beautiful design from Figma to life, creating a stunning and user-friendly application.
+- Revitalized legacy projects, achieving 60% optimization and 70% annual user acquisition growth, resulting in significant revenue and user engagement enhancements.
+- Effectively communicated with clients, addressing their needs, gathering requirements, and ensuring project alignment with their expectations.
+- Gained valuable experience in product development, leadership, and project management, and problem-solving skills.
+
+### Full Stack Web Developer – Sep 2021 – Feb 2022
+**The Neuron Club** – Sweden (Remote)
+-  Developed a comprehensive end-to-end web application for the start-up with optimized infrastructure.
+-  Boosted user engagement by 40%, reduced server response time by 25%, and cut project costs by 60%.
+-  Employed meticulous project management, user-centric design, and cost-effective resource utilization
+
+---
+
+## Education 🎓
+
+- Bachelor of Technology in Computer Science, Guru Gobind Singh Indraprastha University, New Delhi, India
+- High School in Non Medical Science, Govt. Boys Sr. Sec. School, New Delhi, India
+
+---
+
+## Interests and Hobbies 🌟
+
+- Football
+- Cycling
+- Physchology
+
+---
+
 <div align="left">
-    <h2> <b> Frontend/Tools </b> </h2>
+    <h2> <b> Frontend </b> </h2>
 </div>
 <div>
     <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" title="HTML5" height="50" />
@@ -45,7 +76,7 @@
 
 <div width="33%">
     <div align="left">
-        <h2> <b> Other </b> </h2>
+        <h2> <b> Other Tools </b> </h2>
     </div>
     <div align="left">
         <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" title="GIT" height="50" />
@@ -55,3 +86,10 @@
         <img src="https://cdn.iconscout.com/icon/free/png-512/free-socket-54-282608.png" alt="socket.io" title="socket.io" width="65" height="65" />
     </div>
 </div>
+
+--- 
+<div align="left">
+    <h2> <b> GitHub Statistics </b> </h2>
+</div>
+
+![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankit628792&show_icons=true)
