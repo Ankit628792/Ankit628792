@@ -5,7 +5,7 @@ I'm a Frontend Developer with a knack for creating captivating user interfaces w
 ## Connect with me 🤝
 <a href="https://www.instagram.com/ankit_628792/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/instagram-new.png" width="50" /></a>
 <a href="https://www.linkedin.com/in/ankit628792" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/linkedin.png" width="50" /></a>
-<br> 
+
 
 ## Work Experience 💼
 
@@ -23,14 +23,14 @@ I'm a Frontend Developer with a knack for creating captivating user interfaces w
 -  Boosted user engagement by 40%, reduced server response time by 25%, and cut project costs by 60%.
 -  Employed meticulous project management, user-centric design, and cost-effective resource utilization
 
----
+<br>
 
 ## Education 🎓
 
 - Bachelor of Technology in Computer Science, Guru Gobind Singh Indraprastha University, New Delhi, India
 - High School in Non Medical Science, Govt. Boys Sr. Sec. School, New Delhi, India
 
----
+<br>
 
 ## Interests and Hobbies 🌟
 
@@ -38,11 +38,9 @@ I'm a Frontend Developer with a knack for creating captivating user interfaces w
 - Cycling
 - Physchology
 
----
+<br>
 
-<div align="left">
-    <h2> <b> Frontend </b> </h2>
-</div>
+## Frontend
 <div>
     <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" title="HTML5" height="50" />
     <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" title="CSS3" height="50" />
@@ -58,38 +56,31 @@ I'm a Frontend Developer with a knack for creating captivating user interfaces w
 
 </div>
 
-<div width="33%">
-    <div align="left">
-        <h2> <b>Backend</b> </h2>
-    </div>
-    <div align="left">
-        <div align="left">
-            <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" height="50" />
-            <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" height="50" />
-            <img src="https://cdn.iconscout.com/icon/free/png-512/free-postgresql-11-1175122.png" title="PostgreSQL" alt="postgresql" height="50" />
-            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" title="MySQL" width="65" height="65" />
-            <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="restapi" title="REST API" width="65" height="65" />
-            <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="webpack" title="Webpack" width="50" height="50" />
-        </div>
-    </div>
-</div>
 
-<div width="33%">
-    <div align="left">
-        <h2> <b> Other Tools </b> </h2>
-    </div>
-    <div align="left">
-        <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" title="GIT" height="50" />
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" title="AWS" width="65" height="65" />
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" title="Docker" width="65" height="65" />
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="nginx" title="NGINX" width="65" height="65" />
-        <img src="https://cdn.iconscout.com/icon/free/png-512/free-socket-54-282608.png" alt="socket.io" title="socket.io" width="65" height="65" />
-    </div>
-</div>
-
---- 
+## Backend
 <div align="left">
-    <h2> <b> GitHub Statistics </b> </h2>
+    <div align="left">
+        <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" height="50" />
+        <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" height="50" />
+        <img src="https://cdn.iconscout.com/icon/free/png-512/free-postgresql-11-1175122.png" title="PostgreSQL" alt="postgresql" height="50" />
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" title="MySQL" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="restapi" title="REST API" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="webpack" title="Webpack" width="50" height="50" />
+    </div>
 </div>
+
+## Other Tools
+<div align="left">
+    <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" title="GIT" height="50" />
+    <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" title="AWS" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" title="Docker" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="nginx" title="NGINX" width="65" height="65" />
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-socket-54-282608.png" alt="socket.io" title="socket.io" width="65" height="65" />
+</div>
+
+
+<br>
+
+## GitHub Statistics 🚀
 
 ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankit628792&show_icons=true)
