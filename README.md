@@ -1,6 +1,6 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> Hi, I'm Ankit
-I'm a Frontend Developer with a knack for creating captivating user interfaces with impressive animation, providing great user experience and a solid grasp of backend development, passionate about crafting engaging digital experiences.
+I'm a Frontend Developer, having 3+ years of experience, with a knack for creating captivating user interfaces with impressive animation, providing great user experience and a solid grasp of backend development, passionate about crafting engaging digital experiences.
 
 ## Connect with me 🤝
 <a href="https://www.instagram.com/ankit_628792/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/instagram-new.png" width="50" /></a>
