@@ -23,6 +23,12 @@ I'm a Frontend Developer, having 3+ years of experience, with a knack for creati
 -  Boosted user engagement by 40%, reduced server response time by 25%, and cut project costs by 60%.
 -  Employed meticulous project management, user-centric design, and cost-effective resource utilization
 
+### JavaScript Developer – Jan 2021 – Jul 2022
+**CodSoft** – – Kolkata, India (Remote)
+-  Reorganize the existing application front-end with a new application utilizing the latest technology.
+-  Collaborate with other team members to identify key requirements and design aspects of the new front-end.
+-  Improved user experience by incorporating the latest features such as animations, transitions.
+
 <br>
 
 ## Education 🎓
@@ -61,6 +67,7 @@ I'm a Frontend Developer, having 3+ years of experience, with a knack for creati
 <div align="left">
     <div align="left">
         <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" height="50" />
+        <img src="https://docs.nestjs.com/assets/logo-small-gradient.svg" title="Nest.js" alt="Nest.js" height="50" />
         <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" height="50" />
         <img src="https://cdn.iconscout.com/icon/free/png-512/free-postgresql-11-1175122.png" title="PostgreSQL" alt="postgresql" height="50" />
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" title="MySQL" width="65" height="65" />
