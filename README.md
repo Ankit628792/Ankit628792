@@ -11,23 +11,15 @@ I'm a Frontend Developer, having 3+ years of experience, with a knack for creati
 
 ### Product Development Engineer – Apr 2022 – Mar 2024
 **Sugoi Labs Pvt. Ltd.** – Bengaluru, India
-- Crafted over 12 products, encompassing 6 end-to-end solutions and 4 collaborative ventures.
-- Bringing the beautiful design from Figma to life, creating a stunning and user-friendly application.
-- Revitalized legacy projects, achieving 60% optimization and 70% annual user acquisition growth, resulting in significant revenue and user engagement enhancements.
-- Effectively communicated with clients, addressing their needs, gathering requirements, and ensuring project alignment with their expectations.
-- Gained valuable experience in product development, leadership, and project management, and problem-solving skills.
+I handled frontend and API development for clients across various regions, creating responsive interfaces with React and Next JS for cross-browser compatibility and performance. I designed RESTful APIs, integrated third-party services, prioritized security, and collaborated closely with clients to meet their needs, ensuring high satisfaction and scalable solutions.
 
 ### Full Stack Web Developer – Sep 2021 – Feb 2022
 **The Neuron Club** – Sweden (Remote)
--  Developed a comprehensive end-to-end web application for the start-up with optimized infrastructure.
--  Boosted user engagement by 40%, reduced server response time by 25%, and cut project costs by 60%.
--  Employed meticulous project management, user-centric design, and cost-effective resource utilization
+Served as a Full Stack Developer for a Sweden-based client, specializing in a prediction gaming web platform. Using Next.js, I led front-end development and integrated a CMS for streamlined content management. I developed server-side logic with Node.js and Express, managed MongoDB databases, integrated third-party APIs, and worked closely with clients and teams to ensure top-tier platform functionality and performance.
 
 ### JavaScript Developer – Jan 2021 – Jul 2022
 **CodSoft** – – Kolkata, India (Remote)
--  Reorganize the existing application front-end with a new application utilizing the latest technology.
--  Collaborate with other team members to identify key requirements and design aspects of the new front-end.
--  Improved user experience by incorporating the latest features such as animations, transitions.
+Focused on frontend development, revamping interfaces and enhancing user experiences. Using React and TailwindCSS, I improved usability and client satisfaction through intuitive, responsive designs, collaborating closely with design teams for seamless UI/UX integration.
 
 <br>
 
