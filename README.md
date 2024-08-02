@@ -10,15 +10,15 @@ I'm a Frontend Developer, having 3+ years of experience, with a knack for creati
 ## Work Experience 💼
 
 ### Product Development Engineer – Apr 2022 – Mar 2024
-**Sugoi Labs Pvt. Ltd.** – Bengaluru, India
+**Sugoi Labs Pvt. Ltd.** 
 I handled frontend and API development for clients across various regions, creating responsive interfaces with React and Next JS for cross-browser compatibility and performance. I designed RESTful APIs, integrated third-party services, prioritized security, and collaborated closely with clients to meet their needs, ensuring high satisfaction and scalable solutions.
 
 ### Full Stack Web Developer – Sep 2021 – Feb 2022
-**The Neuron Club** – Sweden (Remote)
+**The Neuron Club**
 Served as a Full Stack Developer for a Sweden-based client, specializing in a prediction gaming web platform. Using Next.js, I led front-end development and integrated a CMS for streamlined content management. I developed server-side logic with Node.js and Express, managed MongoDB databases, integrated third-party APIs, and worked closely with clients and teams to ensure top-tier platform functionality and performance.
 
 ### JavaScript Developer – Jan 2021 – Jul 2022
-**CodSoft** – – Kolkata, India (Remote)
+**CodSoft**
 Focused on frontend development, revamping interfaces and enhancing user experiences. Using React and TailwindCSS, I improved usability and client satisfaction through intuitive, responsive designs, collaborating closely with design teams for seamless UI/UX integration.
 
 <br>
