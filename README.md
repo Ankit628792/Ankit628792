@@ -6,8 +6,6 @@ I'm a Frontend Developer, having 3+ years of experience, with a knack for creati
 <a href="https://www.instagram.com/ankit_628792/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/instagram-new.png" width="50" /></a>
 <a href="https://www.linkedin.com/in/ankit628792" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/linkedin.png" width="50" /></a>
 
-<br>
-
 ## Education 🎓
 
 - Bachelor of Technology in Computer Science, Guru Gobind Singh Indraprastha University, New Delhi, India
